@@ -1,6 +1,6 @@
 - 👋 Hi, I’m student from Czech, who like programing
 - 🌱 I’m currently learning more about Python, C# and Electron
-- 🖥️ I have mostly use Java and Javascript
+- 🖥️ I mostly use Java and Javascript
 - 📫 You can reach me: pelctomas9@seznam.cz
 <div align="justify">
 
