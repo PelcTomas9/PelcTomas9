@@ -1,4 +1,4 @@
-- 👋 Hi, I’m student from Czech, who like programming
+- 👋 Hi, I’m ex-student from Czech, who like programming
 - 🌱 I’m currently learning more about Python and C# 
 - 🖥️ I mostly use Javascript and Java
 - 📫 You can reach me:
